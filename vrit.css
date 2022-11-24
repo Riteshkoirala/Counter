@@ -1,0 +1,53 @@
+body{
+    background-image: url(wq.jpg);
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 98vh;
+    text-align: center;
+    font-weight: bold;
+
+
+}
+
+.main {
+    position: relative;
+    margin: auto;
+    background-image: url(wal.jpg);
+    background-size: cover;
+    max-width: 60%;
+    border: 3px solid black;
+    border-radius: 10px;
+    top: 80px;
+}
+.main2 {
+    position: relative;
+    margin: auto;
+    background-color: wheat;
+    max-width: 60%;
+    border: 3px solid black;
+    border-radius: 10px;
+    top: 100px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#incre{
+    background-color: blue;
+}
+#save {
+    background-color: brown;
+}
